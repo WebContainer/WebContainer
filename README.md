@@ -1,6 +1,6 @@
 # WebContainer
 
-## Other Projects
+## WebAssembly Projects
 
 - https://github.com/cjdelisle/clang-wasm-toolchain
 - https://github.com/jfbastien/musl
