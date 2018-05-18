@@ -26,7 +26,7 @@ Unclear, but important items are:
   - [ ] Mojo IPC
     - [x] `open/read/close/readv/writev`
     - [ ] `brk/sbrk`
-  - [ ] One Security Policy
+  - [ ] One Security Policy
     - [ ] CoW Access to FileSystem
     - [ ] Threaded `fork()`
       - Calling `fork()` creates new WebAssembly container in another thread.
