@@ -17,7 +17,7 @@ Unclear, but important items are:
 ## Status
 
 - [ ] LLVM Toolchain
-  - [ ] WASM-compatible musl-libc
+  - [ ] WASM-compatible musl-libc
     - [ ] `libclang_rt.builtins_wasm32.a`
       - currently compiling _builtins_ as part of `libc.a`, since all WASM targets are identical
     - [ ] Dockerized built tools
