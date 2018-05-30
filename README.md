@@ -1,5 +1,16 @@
 # WebContainer
 
+First, this is an experiment.
+We like crazy experiments.
+
+This work is inspired by:
+
+- [Progressive Web Apps (PWAs)](https://developers.google.com/web/progressive-web-apps/)
+- [ElectronJS](https://electronjs.org)
+- [iOS Apps Architecture](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
+- [Docker](https://github.com/docker/docker-ce)
+- [WebAssembly](https://webassembly.org)
+
 ## Goals
 
 Unclear, but important items are:
