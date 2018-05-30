@@ -6,13 +6,13 @@ Unclear, but important items are:
 
 1. compile once, to WebAssembly, and run everywhere
 2. one-security-policy
-  - I actually don't trust apps to write their own sandbox/entitlements. I prefer a web-like model where all applications are subject to the same security constaints. This would not preclude apps from _further_ refining their security constraints, (e.g. CSP)
+    - I actually don't trust apps to write their own sandbox/entitlements. I prefer a web-like model where all applications are subject to the same security constaints. This would not preclude apps from _further_ refining their security constraints, (e.g. CSP)
 3. functional and useful
-  - the impossible goal of having a secure, locked-down platform but also one with useful access to all underlying platform features
-  - for example, _yes_ i want some apps to be able to modify network settings
-  - avoid dependency hell, avoid runtime hell
+    - the impossible goal of having a secure, locked-down platform but also one with useful access to all underlying platform features
+    - for example, _yes_ i want some apps to be able to modify network settings
+    - avoid dependency hell, avoid runtime hell
 4. fits a reasonable performance profile
-  - constraints include: battery, CPU, memory, at-rest storage size, network bandwith requirements
+    - constraints include: battery, CPU, memory, at-rest storage size, network bandwith requirements
 
 ## Authors
 
