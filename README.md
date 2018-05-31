@@ -1,5 +1,7 @@
 # WebContainer
 
+> Portable, safe, desktop applications
+
 First, this is an experiment.
 We like crazy experiments.
 
@@ -57,9 +59,12 @@ Unclear, but important items are:
 
 It would be nice if concepts like threadding, forking, signals, etc, could entirely be implemented by the JavaScript sandbox, and not require underlying OS support. Having OS support would be a nice optimization when required.
 
-## Other Projects / Inspirations / References
+## Awesome Projects
 
 - https://github.com/cjdelisle/clang-wasm-toolchain
 - https://github.com/jfbastien/musl
 - https://github.com/yurydelendik/wasmception
 - https://github.com/kripken/musl-emscripten
+- https://github.com/CommonWA/cwa-spec
+- https://github.com/cervus-v/cervus
+- https://github.com/ry/deno
